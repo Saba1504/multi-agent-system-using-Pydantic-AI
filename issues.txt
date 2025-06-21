@@ -1,0 +1,12 @@
+What Didn't Work and Why
+
+1. Combining urgency and routing logic led to messy code.
+2. Missed urgency when language was vague but angry.
+3. Keyword-only routing missed nuance.
+4. High urgency tickets landed in general_support.
+5. Underestimated new users’ urgency.
+6. Pydantic AI wasn’t compatible with Colab initially.
+7. Prompts too vague at first.
+8. Didn't prioritize high-revenue clients properly.
+9. Metrics lacked depth until later.
+10. Thresholds needed tuning with real data.

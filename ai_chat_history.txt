@@ -1,0 +1,7 @@
+AI Chat History – Simulated
+
+- Started with 1-agent system
+- Split into urgency and routing agents after confusion
+- Improved prompts and keyword detection
+- Handled edge cases (emotional messages, vague subjects)
+- Final design passed test cases and consistency checks
